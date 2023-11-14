@@ -1,5 +1,0 @@
-<FindBugsFilter>
-     <Match>
-       <Package name="org.apache.jute.compiler.generated" />
-     </Match>
-</FindBugsFilter>
